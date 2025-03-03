@@ -9,7 +9,7 @@ To get started with Xeno Executor, follow these steps:
 
 ## ✨ About Xeno Executor
 🌟 **Xeno Executor** is a state-of-the-art script execution tool for Roblox. It offers high performance, an intuitive user experience, and full compatibility with the latest Roblox updates. Whether you're a gamer, developer, or modding enthusiast, Xeno Executor is your perfect companion! 🛠🎯
-![Xeno Executor Preview](/assets/названиепнг.png)
+![Xeno Executor Preview](/assets/xeno-executor-v1.1.4-final.png)
 ## 🚀 Key Features
 ✔️ **Advanced Script Execution** – Run complex scripts effortlessly!  
 ✔️ **Optimized Performance** – Experience smooth, lag-free gameplay! 🏎💨  
